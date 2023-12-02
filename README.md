@@ -1,0 +1,2 @@
+# pyfotuz
+python N1
